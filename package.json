@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "merge_sorted_array": "ts-node ./array/merge_sorted_array/merge_sorted_array_tests.ts",
+    "remove_element": "ts-node ./array/remove_element/remove_element_tests.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

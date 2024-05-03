@@ -10,6 +10,9 @@ You can run test example for each algorithm with npm:
 npm run {algorithm_name}
 ```
 
+### List of Algorithms - explanation for beginners
+1. [Boyer-Moore Voting](./algorithm-for-dummies/boyer-moore-voting.md)
+
 ### Legend
 🟢 - Easy\
 🟡 - Medium\

@@ -10,9 +10,15 @@ You can run test example for each algorithm with npm:
 npm run {algorithm_name}
 ```
 
+### Legend
+🟢 - Easy\
+🟡 - Medium\
+🔴 - Hard\
+
 ## Array / String 
-1. [Merge Sorted Array](./array/merge_sorted_array/merge_sorted_array.ts)
-2. [Remove Element](./array/remove_element/remove_element.ts)
-3. [Remove Duplicates from Sorted Array](./array/remove_duplicates_from_sorted_array/remove_duplicates_from_sorted_array.ts)
+1. 🟢 [Merge Sorted Array](./array/merge_sorted_array/merge_sorted_array.ts)
+2. 🟢 [Remove Element](./array/remove_element/remove_element.ts)
+3. 🟢 [Remove Duplicates from Sorted Array](./array/remove_duplicates_from_sorted_array/remove_duplicates_from_sorted_array.ts)
+4. 🟢 [Majority Element](./array/majority_element/majority_element.ts)
 
 👷 WIP - Algorithm Links will be added once they are solved 👷

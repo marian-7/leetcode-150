@@ -29,5 +29,6 @@ npm run {algorithm_name}
 ## String
 1. 🟢 [Roman to Integer](./string/roman_to_integer/roman_to_integer.ts)
 2. 🟢 [Length of Last Word](./string/length_of_last_word/length_of_last_word.ts)
+3. 🟢 [Longest Common Prefix](./string/longest_common_prefix/longest_common_prefix.ts)
 
 👷 WIP - Algorithm Links will be added once they are solved 👷

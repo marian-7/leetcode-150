@@ -16,7 +16,7 @@ npm run {algorithm_name}
 ### Legend
 🟢 - Easy\
 🟡 - Medium\
-🔴 - Hard\
+🔴 - Hard
 
 ## Array
 1. 🟢 [Merge Sorted Array](./array/merge_sorted_array/merge_sorted_array.ts)
@@ -30,5 +30,6 @@ npm run {algorithm_name}
 1. 🟢 [Roman to Integer](./string/roman_to_integer/roman_to_integer.ts)
 2. 🟢 [Length of Last Word](./string/length_of_last_word/length_of_last_word.ts)
 3. 🟢 [Longest Common Prefix](./string/longest_common_prefix/longest_common_prefix.ts)
+4. 🟢 [Find the Index of the First Occurrence in a String](./string/find_the_index_of_the_first_occurrence_in_a_string/find_the_index_of_the_first_occurrence_in_a_string.ts)
 
 👷 WIP - Algorithm Links will be added once they are solved 👷

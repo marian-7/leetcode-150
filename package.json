@@ -10,6 +10,7 @@
     "majority_element": "ts-node ./array/majority_element/majority_element_tests.ts",
     "best_time_to_buy_and_sell_stock": "ts-node ./array/best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock_tests.ts",
     "roman_to_integer": "ts-node ./string/roman_to_integer/roman_to_integer_tests.ts",
+    "length_of_last_word": "ts-node ./string/length_of_last_word/length_of_last_word_tests.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

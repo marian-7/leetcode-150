@@ -11,7 +11,7 @@ npm run {algorithm_name}
 ```
 
 ### List of Algorithms - explanation for beginners
-1. [Boyer-Moore Voting](./algorithm-for-dummies/boyer-moore-voting.md)
+1. [Boyer-Moore Voting](algorithm-for-dummies/boyer-moore-voting/README.md)
 
 ### Legend
 🟢 - Easy\

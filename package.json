@@ -12,6 +12,7 @@
     "remove_duplicates_from_sorted_array_2": "ts-node array/remove_duplicates_from_sorted_array_2/tests.ts",
     "rotate_array": "ts-node array/rotate_array/tests.ts",
     "best_time_to_buy_and_sell_stocks_2": "ts-node array/best_time_to_buy_and_sell_stocks_2/tests.ts",
+    "jump_game": "ts-node array/jump_game/tests.ts",
     "roman_to_integer": "ts-node string/roman_to_integer/tests.ts",
     "length_of_last_word": "ts-node string/length_of_last_word/tests.ts",
     "longest_common_prefix": "ts-node string/longest_common_prefix/tests.ts",

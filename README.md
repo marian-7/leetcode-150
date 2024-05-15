@@ -27,6 +27,7 @@ npm run {algorithm_name}
 6. 🟡 [Remove Duplicates from Sorted Array II](./array/remove_duplicates_from_sorted_array_2/remove_duplicates_from_sorted_array_2.ts)
 7. 🟡 [Rotate Array](./array/rotate_array/rotate_array.ts)
 8. 🟡 [Best Time to Buy and Sell Stock II](./array/best_time_to_buy_and_sell_stocks_2/best_time_to_buy_and_sell_stocks_2.ts)
+9. 🟡 [Jump Game](./array/jump_game/jump_game.ts)
 
 
 ## String

@@ -29,6 +29,7 @@ npm run {algorithm_name}
 8. 🟡 [Best Time to Buy and Sell Stock II](./array/best_time_to_buy_and_sell_stocks_2/best_time_to_buy_and_sell_stocks_2.ts)
 9. 🟡 [Jump Game](./array/jump_game/jump_game.ts)
 10. 🟡 [Jump Game II](./array/jump_game_2/jump_game_2.ts)
+11. 🟡 [H-index](./array/h_index/h_index.ts)
 
 
 ## String
